@@ -173,7 +173,7 @@ int main()
 					continue;
 				}
 			}
-			if (o_choice == '2')
+			else if (o_choice == '2')
 			{
 				if (p2 != 'X' && p2 != 'O')
 				{
